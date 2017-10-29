@@ -1,0 +1,11 @@
+{
+  "name": "receipt-reader",
+  "version": "1.0.0",
+  "description": "Reads the contents of a scanned receipt image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samuelimolo4real@gmail.com",
+  "license": "ISC"
+}
